@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\vehicle_recognition.exe.config
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\vehicle_recognition.exe
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\vehicle_recognition.pdb
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.Form1.resources
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.Properties.Resources.resources
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.csproj.GenerateResource.cache
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.exe
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.pdb
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\x86\tesseract41.dll
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\x64\tesseract41.dll
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\bin\Debug\Tesseract.dll
+C:\Users\User\source\repos\vehicle_recognition\vehicle_recognition\obj\Debug\vehicle_recognition.csproj.CopyComplete
